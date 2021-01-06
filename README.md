@@ -10,9 +10,9 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 4. Science (Geography, medicine, mechanics)
 5. DIY - (tool, lifehack)
 
-## Ideas:
+## 2.Ideas:
 1. Star Wars Lambda Shuttle
 2. Tesla cybertruck
 
-## Links
+## 3. Links
 [cybertruckownersclub](https://www.cybertruckownersclub.com/)
