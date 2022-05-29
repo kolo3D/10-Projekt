@@ -9,6 +9,7 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 3. Diorama
 4. Science (Geography, medicine, mechanics)
 5. DIY - (tool, lifehack)
+6. Refrigerator Magnet
 
 ## 2. Ideas:
 
